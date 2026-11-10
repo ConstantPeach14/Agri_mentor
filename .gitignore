@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+web-build/
+coverage/
+*.tsbuildinfo
+
+# Local environment files; keep the example templates tracked.
+**/.env
+**/.env.*
+!**/.env.example
+
+# Generated native folders
+mobile/ios/
+mobile/android/
